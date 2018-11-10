@@ -1,0 +1,341 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541376659 source:c:\users\cristian rios\desktop\programac-c++ion\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533133022 c:\users\cristian rios\desktop\programac-c++ion\tp3\win_64\linkedlist.h
+
+1541376760 c:\users\cristian rios\desktop\programac-c++ion\tp3\win_64\employee.h
+
+1533133022 source:c:\users\cristian rios\desktop\programac-c++ion\tp3\win_64\employee.c
+
+1541376659 source:c:\users\cristian rios\desktop\programac-c++ion\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541376659 source:c:\users\cristian rios\desktop\programac-c++ion\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1533133022 c:\users\cristian rios\desktop\programac-c++ion\tp3\win_64\controller.h
+
+1541539619 source:c:\users\fvg\desktop\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1533133022 c:\users\fvg\desktop\win_64\linkedlist.h
+
+1541476883 c:\users\fvg\desktop\win_64\employee.h
+
+1541547976 source:c:\users\fvg\desktop\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541472055 c:\users\fvg\desktop\win_64\controller.h
+
+1541539619 source:c:\users\fvg\desktop\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541548140 source:c:\users\fvg\desktop\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"Parser.h"
+
+1533133022 c:\users\fvg\desktop\win_64\parser.h
+
+1541560380 source:c:\users\cristian rios\desktop\programac-c++ion\pdf-master\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1541551905 c:\users\cristian rios\desktop\programac-c++ion\pdf-master\win_64\linkedlist.h
+
+1541551905 c:\users\cristian rios\desktop\programac-c++ion\pdf-master\win_64\employee.h
+
+1541548930 c:\users\cristian rios\desktop\programac-c++ion\pdf-master\win_64\parser.h
+
+1541552350 source:c:\users\cristian rios\desktop\programac-c++ion\pdf-master\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"Parser.h"
+
+1541548930 c:\users\cristian rios\desktop\programac-c++ion\pdf-master\win_64\controller.h
+
+1541559940 source:c:\users\cristian rios\desktop\programac-c++ion\pdf-master\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541551906 source:c:\users\cristian rios\desktop\programac-c++ion\pdf-master\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541602929 source:c:\users\alumno\desktop\sad-master\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1541560602 c:\users\alumno\desktop\sad-master\win_64\linkedlist.h
+
+1541560602 c:\users\alumno\desktop\sad-master\win_64\employee.h
+
+1541560602 c:\users\alumno\desktop\sad-master\win_64\parser.h
+
+1541596301 source:c:\users\alumno\desktop\sad-master\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"Parser.h"
+
+1541560602 c:\users\alumno\desktop\sad-master\win_64\controller.h
+
+1541600340 source:c:\users\alumno\desktop\sad-master\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541602950 source:c:\users\alumno\desktop\sad-master\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1539147656 c:\users\alumno\desktop\sad-master\win_64\utn.h
+
+1541531164 source:c:\users\alumno\desktop\sad-master\win_64\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1541623951 source:c:\users\fvg\desktop\pdf-master\sad-master\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1541585868 c:\users\fvg\desktop\pdf-master\sad-master\win_64\linkedlist.h
+
+1541585868 c:\users\fvg\desktop\pdf-master\sad-master\win_64\employee.h
+
+1541585868 c:\users\fvg\desktop\pdf-master\sad-master\win_64\parser.h
+
+1541585868 c:\users\fvg\desktop\pdf-master\sad-master\win_64\utn.h
+
+1541623577 source:c:\users\fvg\desktop\pdf-master\sad-master\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"Parser.h"
+
+1541585868 c:\users\fvg\desktop\pdf-master\sad-master\win_64\controller.h
+
+1541623951 source:c:\users\fvg\desktop\pdf-master\sad-master\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541622967 source:c:\users\fvg\desktop\pdf-master\sad-master\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541585868 source:c:\users\fvg\desktop\pdf-master\sad-master\win_64\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1541806063 source:c:\users\fvg\desktop\sad-master\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541808730 c:\users\fvg\desktop\sad-master\win_64\linkedlist.h
+
+1541788313 c:\users\fvg\desktop\sad-master\win_64\employee.h
+
+1541801377 source:c:\users\fvg\desktop\sad-master\win_64\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1541807002 source:c:\users\fvg\desktop\sad-master\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1541714589 c:\users\fvg\desktop\sad-master\win_64\parser.h
+
+1541726250 c:\users\fvg\desktop\sad-master\win_64\utn.h
+
+1541804188 source:c:\users\fvg\desktop\sad-master\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541724826 c:\users\fvg\desktop\sad-master\win_64\controller.h
+
+1541808730 source:c:\users\fvg\desktop\sad-master\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"Parser.h"
+
+1541807002 source:c:\users\fvg\desktop\tp 3 terminado\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1541808730 c:\users\fvg\desktop\tp 3 terminado\linkedlist.h
+
+1541788313 c:\users\fvg\desktop\tp 3 terminado\employee.h
+
+1541714589 c:\users\fvg\desktop\tp 3 terminado\parser.h
+
+1541726250 c:\users\fvg\desktop\tp 3 terminado\utn.h
+
+1541804188 source:c:\users\fvg\desktop\tp 3 terminado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541724826 c:\users\fvg\desktop\tp 3 terminado\controller.h
+
+1541806063 source:c:\users\fvg\desktop\tp 3 terminado\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541801377 source:c:\users\fvg\desktop\tp 3 terminado\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
